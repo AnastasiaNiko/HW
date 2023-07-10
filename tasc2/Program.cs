@@ -24,3 +24,4 @@ else
     min = firstNumber;
 }
 Console.WriteLine("большее = " + max    + "меньшее = " + min);
+// пп
